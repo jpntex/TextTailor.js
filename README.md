@@ -2,10 +2,11 @@
 Tailor-made text to fit your needs!
 Responsive text to fill the height of the parent element or ellipse it when it doesn't fit.
 
-[TextTailor.js Examples](http://jpntex.com/texttailor/ "Examples")
+### Check out the examples page:
+[http://jpntex.com/texttailor/](http://jpntex.com/texttailor/ "Examples")
 
 ## How To Use
-```
+```javascript
 <script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script src="jquery.texttailor.js"></script>
 <script>
