@@ -1,0 +1,23 @@
+{
+  "name": "TextTailor.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jpntex/TextTailor.js",
+  "authors": [
+    "João Teixeira <jpntex@gmail.com>"
+  ],
+  "description": "jQuery plugin, tailor made text to fill the height of the parent element or ellipse it if it doesn't fit",
+  "main": "jquery.texttailor.js",
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  },
+  "keywords": [
+    "responsive",
+    "fit",
+    "text",
+    "tailor",
+    "fill",
+    "ellipse",
+    "height"
+  ],
+  "license": "MIT"
+}
