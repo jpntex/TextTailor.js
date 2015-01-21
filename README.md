@@ -1,4 +1,4 @@
-# TextTailor.js
+TextTailor.js
 Tailor-made text to fit your needs!
 Responsive text to fill the height of the parent element or ellipse it when it doesn't fit.
 
