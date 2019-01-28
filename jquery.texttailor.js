@@ -2,10 +2,8 @@
  * TextTailor - v0.1.0
  * https://github.com/jpntex
  *
- * http://jpntex.com
- *
- * Copyright (c) 2014 João Teixeira; Licensed MIT
- *
+ * Copyright (c) 2019 João Teixeira; Licensed MIT
+ * 
  */
 
 (function($, window) {

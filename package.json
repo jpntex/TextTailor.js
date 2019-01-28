@@ -3,11 +3,11 @@
   "title": "TextTailor.js",
   "version": "0.1.0",
   "description": "jQuery plugin, tailor made text to fill the height of the parent element or ellipse it if it doesn't fit",
-  "author": "João Teixeira <jpntex@gmail.com> (http://jpntex.com)",
+  "author": "João Teixeira",
   "devDependencies": {
-    "grunt": "~0.4.5",
-    "grunt-contrib-jshint": "~0.10.0",
-    "grunt-contrib-uglify": "~0.5.0"
+    "grunt": "^1.0.3",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.0"
   },
   "main": "Gruntfile.js",
   "scripts": {
