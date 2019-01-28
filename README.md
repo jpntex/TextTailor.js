@@ -3,7 +3,7 @@ Tailor-made text to fit your needs!
 Responsive text to fill the height of the parent element or ellipse it when it doesn't fit.
 
 ### Check out the examples page:
-[http://jpntex.com/texttailor/](http://jpntex.com/texttailor/ "Examples")
+[http://jpntex.github.io/TextTailor.js/](http://jpntex.github.io/TextTailor.js/ "Examples")
 
 ## How To Use
 ```html
@@ -19,7 +19,7 @@ The parent element needs to have a height (fixed or percentage).
 
 ## License
 ```
-Copyright (c) 2014 João Teixeira
+Copyright (c) 2019 João Teixeira
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
