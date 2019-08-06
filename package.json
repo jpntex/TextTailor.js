@@ -5,7 +5,7 @@
   "description": "jQuery plugin, tailor made text to fill the height of the parent element or ellipse it if it doesn't fit",
   "author": "João Teixeira",
   "devDependencies": {
-    "grunt": "^1.0.3",
+    "grunt": "^1.0.4",
     "grunt-contrib-jshint": "^2.0.0",
     "grunt-contrib-uglify": "^4.0.0"
   },
