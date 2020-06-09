@@ -3,7 +3,7 @@ module.exports = function(grunt) {
 		pkg: grunt.file.readJSON('package.json'),
 		uglify: {
 			options: {
-				banner: '/*! <%= pkg.title %> - <%= pkg.version %> - <%= grunt.template.today("yyyy-mm-dd") %> | https://github.com/jpntex/TextTailor.js | Copyright (c) 2019 João Teixeira (@jpntex) | MIT License */\n'
+				banner: '/*! <%= pkg.title %> - <%= pkg.version %> - <%= grunt.template.today("yyyy-mm-dd") %> | https://github.com/jpntex/TextTailor.js | Copyright (c) <%= grunt.template.today("yyyy") %> João Teixeira (@jpntex) | MIT License */\n'
 			},
 			build: {
 				src: 'jquery.texttailor.js',
@@ -22,7 +22,6 @@ module.exports = function(grunt) {
 
 	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-contrib-jshint');
-
 
 	grunt.registerTask('default', ['jshint', 'uglify']);
 };

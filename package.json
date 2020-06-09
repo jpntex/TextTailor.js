@@ -1,7 +1,7 @@
 {
   "name": "texttailor.js",
   "title": "TextTailor.js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "jQuery plugin, tailor made text to fill the height of the parent element or ellipse it if it doesn't fit",
   "author": "João Teixeira",
   "devDependencies": {
@@ -20,7 +20,13 @@
   },
   "keywords": [
     "TextTailor.JS",
-    "jquery"
+    "jquery",
+    "text",
+    "ellipsis",
+    "fit",
+    "scale",
+    "scale text",
+    "fill"
   ],
   "license": "MIT",
   "bugs": {
